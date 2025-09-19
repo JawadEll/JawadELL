@@ -25,7 +25,7 @@
   📚 J’aime concevoir des applications robustes : solutions de facturation, systèmes de gestion (cabinet dentaire, école).<br><br>
   🌱 En apprentissage continu : backend & architectures 3-tiers.
 </p>
-
+<b>Avec un Bac+2 en développement full-stack web. Je combine des compétences solides en ingénierie logicielle, gestion de projet et développement d’applications web (Java, Spring Boot, Angular/React, bases de données…).</b>
 ###
 
 <h3 align="left">🛠️ Langages et outils</h3>
