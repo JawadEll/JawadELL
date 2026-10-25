@@ -6,12 +6,19 @@
 
 **💻 Backend Java / Spring Boot | Full Stack Development | DevOps**
 
-Passionné par le développement logiciel, les architectures backend
-et la conception d'applications web robustes, sécurisées et évolutives.
+Passionné par le développement logiciel, les architectures backend et la conception d'applications web robustes, sécurisées et évolutives.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-el-ibrahimi/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JawadEll)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jawadelibrahimi10@gmail.com)
+<br>
+
+<a href="https://www.linkedin.com/in/jawad-el-ibrahimi/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://jawadell.github.io/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
+<a href="mailto:jawadelibrahimi10@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
@@ -19,11 +26,9 @@ et la conception d'applications web robustes, sécurisées et évolutives.
 
 ## 👨‍💻 À propos de moi
 
-<img align="right" width="230" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="right" width="230" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Développeur au travail">
 
-Ingénieur d'État en Informatique et Réseaux, récemment diplômé,
-avec des compétences en développement logiciel et en conception
-d'applications web.
+Ingénieur d'État en Informatique et Réseaux, récemment diplômé, avec des compétences en développement logiciel et en conception d'applications web.
 
 - 🔭 **Expérience :** Développement Backend & DevOps chez DXC Technology.
 - ☕ **Backend :** Java, Spring Boot, Spring Security, JPA/Hibernate.
@@ -43,25 +48,25 @@ d'applications web.
 ### ☕ Backend & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,php,laravel" alt="Backend technologies">
 </p>
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" alt="Frontend technologies">
 </p>
 
 ### 🗄️ Bases de données
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases">
 </p>
 
 ### ⚙️ DevOps & Outils
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,idea,vscode" alt="DevOps and tools">
 </p>
 
 ---
@@ -69,10 +74,10 @@ d'applications web.
 ## 💼 Expériences professionnelles
 
 ### 🏢 DXC Technology — Développeur Backend & DevOps
+
 **Stage PFE | Mars 2026 – Septembre 2026**
 
-Conception et développement d'une application web intelligente
-de gestion des congés et d'automatisation des processus RH.
+Conception et développement d'une application web intelligente de gestion des congés et d'automatisation des processus RH.
 
 **Principales réalisations :**
 
@@ -90,10 +95,10 @@ de gestion des congés et d'automatisation des processus RH.
 ---
 
 ### 💻 AriMayi — Développeur Backend Java / Spring Boot
+
 **Stage à distance | Juillet 2025 – Septembre 2025**
 
-Développement du module de gestion des ventes SuppWayy
-dans le cadre du projet Reewayy.
+Développement du module de gestion des ventes SuppWayy dans le cadre du projet Reewayy.
 
 **Principales réalisations :**
 
@@ -110,8 +115,7 @@ dans le cadre du projet Reewayy.
 
 ### 📅 Système intelligent de gestion des congés
 
-Application web de gestion des congés développée dans le cadre
-de mon projet de fin d'études chez DXC Technology.
+Application web de gestion des congés développée dans le cadre de mon projet de fin d'études chez DXC Technology.
 
 **Fonctionnalités principales :**
 
@@ -131,8 +135,7 @@ de mon projet de fin d'études chez DXC Technology.
 
 ### 💼 Portail de recherche d'emplois et de stages
 
-Application Full Stack permettant la gestion des offres
-d'emploi et des candidatures.
+Application Full Stack permettant la gestion des offres d'emploi et des candidatures.
 
 **Fonctionnalités :**
 
@@ -148,8 +151,7 @@ d'emploi et des candidatures.
 
 ### 🦷 DentalTech — Gestion de cabinet dentaire
 
-Application Java basée sur une architecture 3-tiers
-pour la gestion d'un cabinet dentaire.
+Application Java basée sur une architecture 3-tiers pour la gestion d'un cabinet dentaire.
 
 **Fonctionnalités :**
 
@@ -179,9 +181,9 @@ pour la gestion d'un cabinet dentaire.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JawadEll&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JawadEll&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadEll&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawadEll&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages">
 
 </div>
 
@@ -195,7 +197,7 @@ pour la gestion d'un cabinet dentaire.
 
 💼 **LinkedIn :** [Jawad El Ibrahimi](https://www.linkedin.com/in/jawad-el-ibrahimi/)
 
-💻 **GitHub :** [JawadEll](https://github.com/JawadEll)
+🌐 **Portfolio :** [jawadell.github.io](https://jawadell.github.io/)
 
 ---
 
